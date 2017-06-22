@@ -15,8 +15,5 @@ More Analytics SDK to come...
  
   s.ios.deployment_target = '10.0'
   s.source_files = 'AllAnalytics/*', 'AllAnalytics/handlers/*'
-  s.dependency 'Firebase/Core'
-  s.dependency 'Fabric'
-  s.dependency 'Answers'
  
 end
