@@ -6,14 +6,14 @@ target 'AllAnalytics' do
   use_frameworks!
 
   # Pods for AllAnalytics
-	pod 'Firebase/Core'
-    pod 'Fabric'
-    pod 'Answers'
+  pod 'Firebase/Core'
+  pod 'Fabric'
+  pod 'Answers'
 
   target 'AllAnalyticsTests' do
     inherit! :search_paths
     # Pods for testing
-	pod 'Firebase/Core'
+    pod 'Firebase/Core'
     pod 'Fabric'
     pod 'Answers'
 
