@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'AllAnalytics'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A framework to centralize all your analytics needs in your IOS application.'
  
   s.description      = <<-DESC
